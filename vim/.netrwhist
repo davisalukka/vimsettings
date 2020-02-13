@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/davis/.vim'
+let g:netrw_dirhist_2='/home/davis/.vim/bundle'
+let g:netrw_dirhist_3='/home/davis/.vim/bundle/supertab'
+let g:netrw_dirhist_4='/home/davis/nxtfarms'
+let g:netrw_dirhist_5='/home/davis/nxtfarms/template'
+let g:netrw_dirhist_6='/home/davis/nxtfarms'
+let g:netrw_dirhist_7='/home/davis/nxtfarms/static'
+let g:netrw_dirhist_8='/home/davis/nxtfarms'
+let g:netrw_dirhist_9='/home/davis/nxtfarms/farms'
